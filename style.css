@@ -1,0 +1,96 @@
+
+
+  
+  
+ body { background-color: ;
+  margin: 0px;
+  max-width: 600px;
+  outline-style: double;
+  
+  
+
+
+
+  }
+  .titel {color: rgb(0, 0, 0);
+  text-size-adjust: ;}
+
+  .upper {background-color: rgb(136, 232, 243);
+  margin: 0px;
+  padding-top: 30px;
+  max-width: 600px;
+}
+
+.upper1
+  .img {block-size: 100px; 
+    
+
+}
+  .search {height: 20px;
+ 
+color: rgb(0, 0, 0);
+background-color:rgb(136, 232, 243); 
+
+}
+
+.textbutton { 
+ background-color:  rgb(136, 232, 243) ;
+ display: flex; justify-content: center;
+
+
+}
+.button{margin-right: 40px;
+  outline-style: solid;
+  
+  background-color: rgb(136, 232, 243);
+  
+  margin-bottom: 5px;   
+
+  text-decoration: none;
+
+  color: black;
+
+  border-radius: 5px;
+  padding-left:;
+  
+
+
+
+
+
+}
+.search {margin-right:6px; padding-right: ;
+  margin-bottom: 5px; 
+  
+  float: left;
+
+background-color: aliceblue;}
+
+.menuicon {background-color: rgb(136, 232, 243);
+float: right;} 
+.searc{
+  margin-right: 200px;
+;
+
+
+}
+
+.mittel{justify-content: center;
+  border-style: solid;
+  margin: 10px;
+  background-color: #D9D9D9;
+
+
+}
+
+.text1 { justify-content: top ;
+
+
+}
+
+.meme1 {outline-style: solid;}
+
+.mittel2 {border-style: solid;
+margin: 10px;
+background-color: #D9D9D9;
+}

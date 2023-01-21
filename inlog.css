@@ -1,0 +1,36 @@
+.login{    
+background-color: rgb(56, 227, 222);
+outline-style: solid;
+
+display:flex;
+justify-content:center;
+
+}
+.button{
+    
+background-color:rgb(56, 227, 222);
+outline-style: solid;
+display:flex;
+justify-content: center;
+
+margin-top: 2px;
+
+}
+
+body{background-color: aqua; 
+    margin: px;
+    max-width: 600px;
+outline-style:solid;
+
+}
+
+.typing{
+    background-color: rgb(56, 227, 222);
+display: flex;
+justify-content: center;
+margin-top:;
+margin-bottom: ;
+outline-style: ;
+
+}
+
